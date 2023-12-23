@@ -28,7 +28,7 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
 
 ## How to reach me
 <div style="display:flex; flex-direction:row;">
-	<a href="https://li-yo.tistory.com"> 
+	<a href="https://h-yeon00.tistory.com"> 
 		<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
 	</a>
     <a href="mailto:heeyeon3050@gmail.com">
