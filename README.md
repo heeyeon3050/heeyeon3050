@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=00000&text=&animation=twinkling&height=80)![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=4000&pause=50000&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=50&lines=Welcome+to+HeeYeon's+GitHub!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00000&text=&animation=twinkling&height=80)![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=4000&pause=50000&color=000000&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=60&lines=Welcome+to+HeeYeon's+GitHub!)
 My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
 ## Things I code with
 <div style="display:flex; flex-direction:column; align-items:center; justify-content:center;">
