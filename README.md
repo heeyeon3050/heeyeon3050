@@ -10,7 +10,7 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
     <div>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/Redis-%23DD0031?style=flat-square&logo=redis&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Jquery-%230769AD?style=flat-square&logo=jquery&logoColor=white"> 
+        <img src="https://img.shields.io/badge/querydsl-%230769AD?style=flat-square&logo=querydsl&logoColor=white"> 
         <img src="https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"> 
         <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon aws&logoColor=white"> 
