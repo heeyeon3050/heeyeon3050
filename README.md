@@ -9,11 +9,10 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
     </div>
     <div>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=docker&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Redis-%23DD0031?style=flat-square&logo=redis&logoColor=white"> 
         <img src="https://img.shields.io/badge/MongoDB-%47A248?style=flat-square&logo=mongoDB&logoColor=white"> 
-        <img src="https://img.shields.io/badge/docker-%230db7ed?style=flat-square&logo=docker&logoColor=white"> 
-        <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"> 
-        <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
     </div>
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -21,8 +20,8 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
         <img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"> 
     </div>
 </div>
 
