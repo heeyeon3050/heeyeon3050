@@ -10,7 +10,7 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
     <div>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=docker&logoColor=white"> 
         <img src="https://img.shields.io/badge/MongoDB-%47A248?style=flat-square&logo=mongoDB&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
         <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"> 
         <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
     </div>
