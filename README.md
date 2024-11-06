@@ -30,5 +30,6 @@ My name is HeeYeon Kim. I am preparing to become a backend developer at SSAFY.
     <a href="https://h-yeon00.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a> <!--
  --><a href="mailto:heeyeon3050@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a> <!--
  --><a href="mailto:kho200a@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"></a> <!--
- --><a href="https://www.instagram.com/h_yeon._.00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+ -->
+<!--     <a href="https://www.instagram.com/h_yeon._.00"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a> -->
 </div>
